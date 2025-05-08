@@ -45,22 +45,13 @@ Fascinated with OSINT, Linux, CTFs, and bypassing limits that others don’t dar
 [ALERT] Trust Layer Cracked
 [CRIT] Root Access: Gained
 [FATAL] Productivity Boost Engaged 💪
-
-
 🛠️ Tech Stack & Tools
-
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,linux,bash,vscode,git,github" /> </p>
-
-
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=prajwal-sharmaa&show_icons=true&theme=radical" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwal-sharmaa&theme=radical" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=prajwal-sharmaa&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" /> </p>
-
 [>>] Focus Mode        [███████████████░░░] 90%
 [>>] Skill Upgrade     [████████████░░░░░░] 70%
 [>>] Trust in People   [█░░░░░░░░░░░░░░░░] 5%
 [>>] Discipline Level  [█████████████░░░░] 85%
-
-
 [X] Location     : Offline Mode
 [X] Mode         : Hustle Mode
 [X] Status       : Learning & Growing
