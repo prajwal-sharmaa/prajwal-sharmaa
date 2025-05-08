@@ -8,7 +8,6 @@
 
 <div align="center">
     <a href="https://instagram.com/sincryptprajwal"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=red&color=black" /></a>
-    <a href="https://youtube.com/@sincryptprajwal"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=red&color=black" /></a>
     <a href="https://t.me/sincryptprajwal"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=red&color=black" /></a>
 </div>
 
@@ -41,11 +40,27 @@ Fascinated with OSINT, Linux, CTFs, and bypassing limits that others don’t dar
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,linux,bash,vscode,git,github" /> </p>
 
 ---
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=prajwal-sharmaa&show_icons=true&theme=radical" /> </p>
+🧠 Mental Status
 
-[>>] Focus Mode        [██████████████▉     ] 90%
-[>>] Skill Upgrade     [███████████         ] 70%
-[>>] Trust in People   [█                   ] 5%
-[>>] Discipline Level  [█████████████▎      ] 85%
+[►]‎  Emotional Stability  ‎     [███████████░░░░░░] 65%  
+[►] ‎ Self-Awareness        ‎    [█████████████░░░░] 85%  
+[►] ‎ Mental Clarity       ‎     [████████████░░░░░] 80%  
+[►] ‎ Resilience          ‎      [████████████░░░░░] 80%  
+[►] ‎ Confidence Level    ‎      [███████████░░░░░░] 75%  
+
 
 ---
+### ⚔️ Weapon Stack
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash Badge"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode Badge"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
+</p>
+
+---
+
+
