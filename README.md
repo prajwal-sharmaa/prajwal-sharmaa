@@ -42,7 +42,7 @@ Fascinated with OSINT, Linux, CTFs, and bypassing limits that others don’t dar
 
 ---
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=prajwal-sharmaa&show_icons=true&theme=radical" /> </p>
-🧠 Mental Status
+
 [>>] Focus Mode        [██████████████▉     ] 90%
 [>>] Skill Upgrade     [███████████         ] 70%
 [>>] Trust in People   [█                   ] 5%
