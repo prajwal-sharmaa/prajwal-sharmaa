@@ -43,6 +43,9 @@ Fascinated with OSINT, Linux, CTFs, and bypassing limits that others don’t dar
 ---
 
 💻 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=prajwal-sharmaa&show_icons=true&theme=radical" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwal-sharmaa&theme=radical" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=prajwal-sharmaa&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" /> </p>
+<p align="center"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=samay825&show_icons=true&theme=highcontrast" alt="GitHub Stats" /> 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=samay825&theme=highcontrast" alt="GitHub Streak" /> 
+</p>
 
 ---
