@@ -1,32 +1,67 @@
-<h1 align="center">⚡ Prajwal | Aspiring Cybersecurity Expert ⚡</h1>
+---
+
+<h1 align="center">💀 PRAJWAL | CYBERSECURITY WARRIOR 💀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=Cybersecurity+Enthusiast;Ethical+Hacker+in+making;Always+Learning+%F0%9F%9A%80" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=matrix&size=28&duration=3000&color=00FF00&center=true&vCenter=true&lines=Cybersecurity+Fanatic;Team+No+Trust+Issues;Master+of+Overthinking;Code.+Hack.+Repeat." alt="Typing SVG" />
 </p>
 
 <div align="center">
-  <a href="https://instagram.com/your_insta_id">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://t.me/your_telegram_id">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@your_youtube">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
+    <a href="https://instagram.com/sincryptprajwal"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=red&color=black" /></a>
+    <a href="https://youtube.com/@sincryptprajwal"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=red&color=black" /></a>
+    <a href="https://t.me/sincryptprajwal"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=red&color=black" /></a>
 </div>
 
 ---
 
-### 👨‍💻 [ABOUT ME] 
-Cybersecurity Student | CSE Undergrad | Overthinker with Big Dreams 😄  
-Loves Bug Hunting, Automation, and Deep Web Investigations 🕵️‍♂️  
-Currently exploring: `Burp Suite`, `Nmap`, `Wireshark`, `Kali Linux` ⚔️  
+### 👨‍💻 [ABOUT ME]
+
+<div align="center"> 
+    <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=24&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=700&lines=👋+Hey!+I+am+Prajwal.;👨‍💻+B.Tech+CSE+Student+%7C+Cybersecurity+Addict;🤯+Trust+Issues+%7C+Focused+AF+%7C+Mastermind+in+Progress" alt="Typing SVG"> 
+</div>
 
 ---
 
-### 📈 GitHub Stats (Optional)
+### ⚡ Who Am I?
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical" />
-</p>
+I’m **Prajwal**, a driven **Computer Science undergrad**, a passionate **cybersecurity explorer**, and an **ethical hacking rookie**.  
+Fascinated with OSINT, Linux, CTFs, and bypassing limits that others don’t dare to challenge 🧠💻
+
+---
+
+### 🔭 My Vision
+
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=750&lines=Building+Skill,+Precision+,+and+Discipline;Hacking+Limits+%7C+Upgrading+Self+Daily" />
+</div>
+
+---
+
+### ⚠️ SYSTEM WARNING
+
+```bash
+[INFO] Recon initiated...
+[WARN] Emotions Unstable: Overthinking Detected
+[ALERT] Trust Layer Cracked
+[CRIT] Root Access: Gained
+[FATAL] Productivity Boost Engaged 💪
+
+
+🛠️ Tech Stack & Tools
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,linux,bash,vscode,git,github" /> </p>
+
+
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=prajwal-sharmaa&show_icons=true&theme=radical" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwal-sharmaa&theme=radical" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=prajwal-sharmaa&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" /> </p>
+
+[>>] Focus Mode        [███████████████░░░] 90%
+[>>] Skill Upgrade     [████████████░░░░░░] 70%
+[>>] Trust in People   [█░░░░░░░░░░░░░░░░] 5%
+[>>] Discipline Level  [█████████████░░░░] 85%
+
+
+[X] Location     : Offline Mode
+[X] Mode         : Hustle Mode
+[X] Status       : Learning & Growing
+[X] Target       : Cybersec BEAST Mode 🦾
