@@ -36,14 +36,6 @@ Fascinated with OSINT, Linux, CTFs, and bypassing limits that others don’t dar
 </div>
 
 ---
+🛠️ Tech Stack & Tools
 
-### ⚠️ SYSTEM WARNING
-
-### [⚠️] System Warning
-### [💀] Threat Matrix
-```text
-[►] System Breach    [███████████████████░] 98%
-[►] Deep Infiltration[██████████████████░░] 95%
-[►] Ghost Protocol   [█████████████████░░░] 92%
-[►] Data Extraction  [████████████████░░░░] 88%
-```
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,linux,bash,vscode,git,github" /> </p>
