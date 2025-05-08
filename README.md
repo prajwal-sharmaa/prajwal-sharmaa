@@ -39,9 +39,11 @@ Fascinated with OSINT, Linux, CTFs, and bypassing limits that others don’t dar
 
 ### ⚠️ SYSTEM WARNING
 
-```bash
-[INFO] Recon initiated...
-[WARN] Emotions Unstable: Overthinking Detected
-[ALERT] Trust Layer Cracked
-[CRIT] Root Access: Gained
-[FATAL] Productivity Boost Engaged 💪
+### [⚠️] System Warning
+### [💀] Threat Matrix
+```text
+[►] System Breach    [███████████████████░] 98%
+[►] Deep Infiltration[██████████████████░░] 95%
+[►] Ghost Protocol   [█████████████████░░░] 92%
+[►] Data Extraction  [████████████████░░░░] 88%
+```
