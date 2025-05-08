@@ -41,11 +41,12 @@ Fascinated with OSINT, Linux, CTFs, and bypassing limits that others don’t dar
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,linux,bash,vscode,git,github" /> </p>
 
 ---
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=prajwal-sharmaa&show_icons=true&theme=radical" /> </p>
 
-💻 GitHub Stats
-<p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=samay825&show_icons=true&theme=highcontrast" alt="GitHub Stats" /> 
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=samay825&theme=highcontrast" alt="GitHub Streak" /> 
-</p>
+🧠 Mental Status
+[>>] Focus Mode        [██████████████▉     ] 90%
+[>>] Skill Upgrade     [███████████         ] 70%
+[>>] Trust in People   [█                   ] 5%
+[>>] Discipline Level  [█████████████▎      ] 85%
 
 ---
