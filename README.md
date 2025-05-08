@@ -2,7 +2,7 @@
 <h3 align="center">Cybersecurity Enthusiast | Ethical Hacker in Progress | B.Tech CSE</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Breaking+Limits...+One+Exploit+at+a+Time.;Focused+on+Security+%7C+Fueled+by+Curiosity.;Building+Discipline.+Sharpening+Skills.+Becoming+Unstoppable."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Breaking+Limits...+One+Exploit+at+a+Time.;Focused+on+Security+%7C+Fueled+by+Curiosity.;....Sharpening+Skills+Building+Discipline.+Becoming+Unstoppable."/>
 </p>
 
 <div align="center">
