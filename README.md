@@ -1,46 +1,47 @@
----
-
-<h1 align="center">💀 PRAJWAL | CYBERSECURITY WARRIOR 💀</h1>
+<h1 align="center">🚨 PRAJWAL SHARMA 🚨</h1>
+<h3 align="center">Cybersecurity Enthusiast | Ethical Hacker in Progress | B.Tech CSE</h3>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=matrix&size=28&duration=3000&color=00FF00&center=true&vCenter=true&lines=Cybersecurity+Fanatic;Master+of+Overthinking;Code.+Hack.+Repeat." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Breaking+Limits...+One+Exploit+at+a+Time.;Focused+on+Security+%7C+Fueled+by+Curiosity.;Building+Discipline.+Sharpening+Skills.+Becoming+Unstoppable."/>
 </p>
 
 <div align="center">
-    <a href="https://instagram.com/sincryptprajwal"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=red&color=black" /></a>
-    <a href="https://t.me/sincryptprajwal"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=red&color=black" /></a>
+    <a href="https://github.com/prajwal-sharmaa" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://instagram.com/sincryptprajwal" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+    <a href="https://t.me/sincryptprajwal" target="_blank">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    </a>
 </div>
 
 ---
 
-### 👨‍💻 [ABOUT ME]
+### 🧠 ABOUT ME
 
-<div align="center"> 
-    <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=24&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=700&lines=👋+Hey!+I+am+Prajwal.;👨‍💻+B.Tech+CSE+Student+%7C+Cybersecurity+Addict;🤯+Trust+Issues+%7C+Focused+AF+%7C+Mastermind+in+Progress" alt="Typing SVG"> 
-</div>
-
----
-
-### ⚡ Who Am I?
-
-I’m **Prajwal**, a driven **Computer Science undergrad**, a passionate **cybersecurity explorer**, and an **ethical hacking rookie**.  
-Fascinated with OSINT, Linux, CTFs, and bypassing limits that others don’t dare to challenge 🧠💻
+- 🎓 B.Tech Computer Science student deeply invested in **Cybersecurity & Ethical Hacking**
+- 🧩 CTFs, OSINT, Linux hardening, and red teaming — my playground
+- 🧠 Strategic thinker | Silent observer + Overthinking combo 🧪
+- 🔍 Constantly in **learning mode** with a mission to master digital defense
 
 ---
 
-### 🔭 My Vision
+### 🎯 MISSION STATEMENT
 
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=750&lines=Building+Skill,+Precision+,+and+Discipline;Hacking+Limits+%7C+Upgrading+Self+Daily" />
-</div>
+> "**To evolve into a top-tier cybersecurity professional, one exploit, one script, and one discipline rep at a time.**"
 
 ---
-🛠️ Tech Stack & Tools
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,linux,bash,vscode,git,github" /> </p>
+### 🔧 TECH STACK
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,linux,bash,vscode,git,github" />
+</p>
 
 ---
-🧠 Mental Status
+### 🧠 MENTAL STATUS
 
 [►]‎  Emotional Stability  ‎     [███████████░░░░░░] 65%  
 [►] ‎ Self-Awareness        ‎    [█████████████░░░░] 85%  
@@ -49,18 +50,26 @@ Fascinated with OSINT, Linux, CTFs, and bypassing limits that others don’t dar
 [►] ‎ Confidence Level    ‎      [███████████░░░░░░] 75%  
 
 
+
 ---
-### ⚔️ Weapon Stack
+
+### ⚔️ WEAPON STACK
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash Badge"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode Badge"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
+
+### 🧭 LET'S CONNECT
+
+> "If you’re working on anything related to cybersecurity, open-source, or OSINT — let's connect, collab, or just vibe over exploits."
+
+
 
 
