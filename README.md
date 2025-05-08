@@ -21,12 +21,14 @@
 [FATAL] Productivity Boost Engaged 💪
 🛠 Tech Stack & Tools
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,linux,bash,vscode,git,github" /> </p>
+
 📊 Personal Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=prajwal-sharmaa&show_icons=true&theme=radical" /> </p>
 [>>] Focus Mode        [██████████████▉     ] 90%
 [>>] Skill Upgrade     [███████████         ] 70%
 [>>] Trust in People   [█                   ] 5%
 [>>] Discipline Level  [█████████████▎      ] 85%
+
 🔐 CURRENT STATUS
 [X] Location  : Offline Mode
 [X] Mode      : Hustle Mode
@@ -34,6 +36,7 @@
 [X] Target    : Cybersec BEAST Mode 💪🏽
 💣 Weapon Stack
 <div align="center"> <img src="https://img.shields.io/badge/-Python-Silent_Strike-FF0000?style=flat-square&logo=python&logoColor=white&color=black" /> <img src="https://img.shields.io/badge/-Bash-Root_Access-FF0000?style=flat-square&logo=gnu-bash&logoColor=white&color=black" /> <img src="https://img.shields.io/badge/-Linux-Terminal_Master-FF0000?style=flat-square&logo=linux&logoColor=white&color=black" /> <img src="https://img.shields.io/badge/-Recon-Sniper_Mode-FF0000?style=flat-square&logo=github&logoColor=white&color=black" /> </div>
+
 🕵️ Shadow Protocol
 [X] Visibility   : Encrypted
 [X] Tracking     : Avoided
