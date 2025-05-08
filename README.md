@@ -3,7 +3,7 @@
 <h1 align="center">💀 PRAJWAL | CYBERSECURITY WARRIOR 💀</h1>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=matrix&size=28&duration=3000&color=00FF00&center=true&vCenter=true&lines=Cybersecurity+Fanatic;Team+No+Trust+Issues;Master+of+Overthinking;Code.+Hack.+Repeat." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=matrix&size=28&duration=3000&color=00FF00&center=true&vCenter=true&lines=Cybersecurity+Fanatic;Master+of+Overthinking;Code.+Hack.+Repeat." alt="Typing SVG" />
 </p>
 
 <div align="center">
